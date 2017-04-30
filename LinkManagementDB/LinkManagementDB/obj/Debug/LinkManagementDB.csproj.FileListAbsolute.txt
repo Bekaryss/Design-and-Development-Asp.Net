@@ -1,0 +1,11 @@
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\bin\Debug\AddData\Database1.mdf
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\bin\Debug\AddData\Database1_log.ldf
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\bin\Debug\LinkManagementDB.exe.config
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\bin\Debug\LinkManagementDB.exe
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\bin\Debug\LinkManagementDB.pdb
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\obj\Debug\LinkManagementDB.csprojResolveAssemblyReference.cache
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\obj\Debug\LinkManagementDB.Form1.resources
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\obj\Debug\LinkManagementDB.Properties.Resources.resources
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\obj\Debug\LinkManagementDB.csproj.GenerateResource.Cache
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\obj\Debug\LinkManagementDB.exe
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\LinkManagementDB\LinkManagementDB\obj\Debug\LinkManagementDB.pdb

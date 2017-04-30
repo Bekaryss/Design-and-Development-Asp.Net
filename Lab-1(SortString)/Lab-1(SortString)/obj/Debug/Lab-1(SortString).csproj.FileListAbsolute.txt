@@ -1,0 +1,6 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\Lab-1(SortString)\Lab-1(SortString)\bin\Debug\Lab-1(SortString).exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\Lab-1(SortString)\Lab-1(SortString)\bin\Debug\Lab-1(SortString).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\Lab-1(SortString)\Lab-1(SortString)\bin\Debug\Lab-1(SortString).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\Lab-1(SortString)\Lab-1(SortString)\obj\Debug\Lab-1(SortString).csprojResolveAssemblyReference.cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\Lab-1(SortString)\Lab-1(SortString)\obj\Debug\Lab-1(SortString).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\Lab-1(SortString)\Lab-1(SortString)\obj\Debug\Lab-1(SortString).pdb

@@ -1,0 +1,6 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Levenshtein-Console)\LAB-1(Levenshtein-Console)\bin\Debug\LAB-1(Levenshtein-Console).exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Levenshtein-Console)\LAB-1(Levenshtein-Console)\bin\Debug\LAB-1(Levenshtein-Console).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Levenshtein-Console)\LAB-1(Levenshtein-Console)\bin\Debug\LAB-1(Levenshtein-Console).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Levenshtein-Console)\LAB-1(Levenshtein-Console)\obj\Debug\LAB-1(Levenshtein-Console).csprojResolveAssemblyReference.cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Levenshtein-Console)\LAB-1(Levenshtein-Console)\obj\Debug\LAB-1(Levenshtein-Console).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Levenshtein-Console)\LAB-1(Levenshtein-Console)\obj\Debug\LAB-1(Levenshtein-Console).pdb

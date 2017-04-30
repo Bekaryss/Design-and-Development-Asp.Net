@@ -1,0 +1,5 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(conversion)\LAB-1(conversion)\bin\Debug\LAB-1(conversion).exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(conversion)\LAB-1(conversion)\bin\Debug\LAB-1(conversion).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(conversion)\LAB-1(conversion)\bin\Debug\LAB-1(conversion).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(conversion)\LAB-1(conversion)\obj\Debug\LAB-1(conversion).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(conversion)\LAB-1(conversion)\obj\Debug\LAB-1(conversion).pdb

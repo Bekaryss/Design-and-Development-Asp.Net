@@ -1,0 +1,9 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\bin\Debug\LAB-1(SpellCorrector).exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\bin\Debug\LAB-1(SpellCorrector).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\bin\Debug\LAB-1(SpellCorrector).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\obj\Debug\LAB-1(SpellCorrector).csprojResolveAssemblyReference.cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\obj\Debug\LAB_1_SpellCorrector_.Properties.Resources.resources
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\obj\Debug\LAB-1(SpellCorrector).csproj.GenerateResource.Cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\obj\Debug\LAB-1(SpellCorrector).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\obj\Debug\LAB-1(SpellCorrector).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(SpellCorrector)\LAB-1(SpellCorrector)\obj\Debug\LAB_1_SpellCorrector_.Form1.resources

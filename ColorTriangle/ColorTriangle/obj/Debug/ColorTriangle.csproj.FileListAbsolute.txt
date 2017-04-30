@@ -1,0 +1,9 @@
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\bin\Debug\ColorTriangle.exe.config
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\bin\Debug\ColorTriangle.exe
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\bin\Debug\ColorTriangle.pdb
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\obj\Debug\ColorTriangle.csprojResolveAssemblyReference.cache
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\obj\Debug\ColorTriangle.Form1.resources
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\obj\Debug\ColorTriangle.Properties.Resources.resources
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\obj\Debug\ColorTriangle.csproj.GenerateResource.Cache
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\obj\Debug\ColorTriangle.exe
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ColorTriangle\ColorTriangle\obj\Debug\ColorTriangle.pdb

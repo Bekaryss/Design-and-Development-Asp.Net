@@ -1,0 +1,6 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FarManager(SIS)\FarManager(SIS)\bin\Debug\FarManager(SIS).exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FarManager(SIS)\FarManager(SIS)\obj\Debug\FarManager(SIS).csprojResolveAssemblyReference.cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FarManager(SIS)\FarManager(SIS)\bin\Debug\FarManager(SIS).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FarManager(SIS)\FarManager(SIS)\bin\Debug\FarManager(SIS).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FarManager(SIS)\FarManager(SIS)\obj\Debug\FarManager(SIS).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FarManager(SIS)\FarManager(SIS)\obj\Debug\FarManager(SIS).pdb

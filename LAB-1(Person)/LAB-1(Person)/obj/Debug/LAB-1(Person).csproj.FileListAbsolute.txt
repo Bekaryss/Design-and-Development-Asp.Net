@@ -1,0 +1,6 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Person)\LAB-1(Person)\bin\Debug\LAB-1(Person).exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Person)\LAB-1(Person)\bin\Debug\LAB-1(Person).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Person)\LAB-1(Person)\bin\Debug\LAB-1(Person).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Person)\LAB-1(Person)\obj\Debug\LAB-1(Person).csprojResolveAssemblyReference.cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Person)\LAB-1(Person)\obj\Debug\LAB-1(Person).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(Person)\LAB-1(Person)\obj\Debug\LAB-1(Person).pdb

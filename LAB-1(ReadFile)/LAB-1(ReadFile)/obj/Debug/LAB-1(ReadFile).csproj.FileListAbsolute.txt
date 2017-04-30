@@ -1,0 +1,6 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(ReadFile)\LAB-1(ReadFile)\bin\Debug\LAB-1(ReadFile).exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(ReadFile)\LAB-1(ReadFile)\bin\Debug\LAB-1(ReadFile).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(ReadFile)\LAB-1(ReadFile)\bin\Debug\LAB-1(ReadFile).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(ReadFile)\LAB-1(ReadFile)\obj\Debug\LAB-1(ReadFile).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(ReadFile)\LAB-1(ReadFile)\obj\Debug\LAB-1(ReadFile).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\LAB-1(ReadFile)\LAB-1(ReadFile)\obj\Debug\LAB-1(ReadFile).csprojResolveAssemblyReference.cache

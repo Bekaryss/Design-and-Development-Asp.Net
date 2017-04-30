@@ -1,0 +1,13 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\bin\Debug\FileSearcher.pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csprojResolveAssemblyReference.cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Form1.resources
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\obj\Debug\FileSearcher.Properties.Resources.resources
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\obj\Debug\FileSearcher.csproj.GenerateResource.Cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\obj\Debug\FileSearcher.pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\bin\Debug\FileSearcher.exe.manifest
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\bin\Debug\FileSearcher.application
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\obj\Debug\FileSearcher.exe.manifest
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\FileSearcher\FileSearcher\obj\Debug\FileSearcher.application

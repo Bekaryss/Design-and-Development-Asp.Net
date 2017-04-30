@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<ArrayOfDoctor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Doctor>
+    <Id>0</Id>
+    <FirstName>asd</FirstName>
+    <SecondName>asd</SecondName>
+    <FatherName>asd</FatherName>
+    <Age>20</Age>
+    <BirthDate>2017-03-03T13:53:50</BirthDate>
+    <PhoneNumber>asd</PhoneNumber>
+    <Genders>Male</Genders>
+    <Address>asd</Address>
+    <Special>Allergist</Special>
+    <Patients />
+    <WorkDays />
+    <Rating>0</Rating>
+  </Doctor>
+  <Doctor>
+    <Id>0</Id>
+    <FirstName>Bekarys</FirstName>
+    <SecondName>Kurabai</SecondName>
+    <FatherName>Bolatuly</FatherName>
+    <Age>20</Age>
+    <BirthDate>1996-06-15T14:06:25</BirthDate>
+    <PhoneNumber>87754464696</PhoneNumber>
+    <Genders>Male</Genders>
+    <Address>Turgut Ozala 70</Address>
+    <Special>Nutritionist</Special>
+    <Location>270</Location>
+    <Patients />
+    <WorkDays />
+    <Degree>Master</Degree>
+    <Rating>0</Rating>
+  </Doctor>
+  <Doctor>
+    <Id>0</Id>
+    <FirstName>qwer</FirstName>
+    <SecondName>qwer</SecondName>
+    <FatherName>qwer</FatherName>
+    <Age>20</Age>
+    <BirthDate>2017-03-03T14:33:04</BirthDate>
+    <PhoneNumber>7897897</PhoneNumber>
+    <Genders>Female</Genders>
+    <Address>qerqwer</Address>
+    <Special>Neurologist</Special>
+    <Location>qwer</Location>
+    <Degree>qwer</Degree>
+    <Rating>0</Rating>
+  </Doctor>
+</ArrayOfDoctor>

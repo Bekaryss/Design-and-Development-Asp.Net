@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="FileSearcher.exe" version="1.0.0.1" publicKeyToken="330b5becd6dfe5f5" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="akatsuki_folder_by_the1straightshooter-d8qqtd8.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FileSearcher" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FileSearcher.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Параметры манифеста UAC
+          При необходимости изменить уровень управления учетными записями Windows замените 
+          узел requestedExecutionLevel одним из следующих значений.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+        Если вы хотите использовать виртуализацию файлов и реестра для обратной
+             совместимости, удалите узел requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileSearcher.exe" size="788464">
+      <assemblyIdentity name="FileSearcher" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>ms9+o19aJeAeFHH9Voit3b8RVQOEs9GKb8f6s9blsjg=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="akatsuki_folder_by_the1straightshooter-d8qqtd8.ico" size="370070">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>28ha9fOyEa+YnVng2fYfFCnfPt66lTMa2iH4rjv9DJE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="FileSearcher.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-ORMG248\Bekarys" issuerKeyHash="507c20d247ba69d5bbcc2c6cc219cc8890d95293" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>pKVbtMSpW6hgjKgRAhL1esExAWFYbXHrXLQlCma/1zM=</DigestValue></Reference></SignedInfo><SignatureValue>DJ2IrMx/C78q6wi+mNR1nN8yRAKpAKd3xfqDL3ATeP+7+J1HT6xzaYX6XUPnHuV7V2Ks2EPFyCd6o6C54knQyaoTt4vbd7qNXB0VXvXduJut9r/opPycX/Ew+WP4wSBexDTWi84WiYheHLLQeiPQ5sj86zGQEN7/MvHuPAsyl/s=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>sYnfoB6ke2IKLBdO/vEUV+fddzlx6sJ4U9S8Q5/pu896KWpy6fbvw0ZcpZxYkAk8P6DAkkRzY/wYiKSR7xdkjG6m2YO1NDD12a3/Vi/DQTu9z0zsisKFV8OqV15bNZGK9XZvQgJaUnzScFnOn696Qc04mk02c3FzVcMlQTko9R0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="33d7bf660a25b45ceb716d58610131c17af5120211a88c60a85ba9c4b45ba5a4" Description="" Url=""><as:assemblyIdentity name="FileSearcher.exe" version="1.0.0.1" publicKeyToken="330b5becd6dfe5f5" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-ORMG248\Bekarys</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>JirDjAHEDe+iybmJ0k+Zam0+h3cgaC51aYkLsTMx2oQ=</DigestValue></Reference></SignedInfo><SignatureValue>fD8fmSraFjHXtxiHCPYLv8zcb2ZFai/zpv1CfGXkK9B5SOkBMfvrHluXCWr9CVLzcn5obgpW+tCOTs1N8GhEepPA6oYnCqM4dLv01WkTFRhipZc3/9LXCpIrWjmVpiL2aehw9jo/xeE0p+kMJyKMX8GnMioAXRvq5DNGOeHYj8k=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>sYnfoB6ke2IKLBdO/vEUV+fddzlx6sJ4U9S8Q5/pu896KWpy6fbvw0ZcpZxYkAk8P6DAkkRzY/wYiKSR7xdkjG6m2YO1NDD12a3/Vi/DQTu9z0zsisKFV8OqV15bNZGK9XZvQgJaUnzScFnOn696Qc04mk02c3FzVcMlQTko9R0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB9TCCAV6gAwIBAgIQZnJ4paaiGo9KKyi29Nn9hzANBgkqhkiG9w0BAQsFADA5MTcwNQYDVQQDHi4ARABFAFMASwBUAE8AUAAtAE8AUgBNAEcAMgA0ADgAXABCAGUAawBhAHIAeQBzMB4XDTE3MDMwNTE4MDI1OVoXDTE4MDMwNjAwMDI1OVowOTE3MDUGA1UEAx4uAEQARQBTAEsAVABPAFAALQBPAFIATQBHADIANAA4AFwAQgBlAGsAYQByAHkAczCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAsYnfoB6ke2IKLBdO/vEUV+fddzlx6sJ4U9S8Q5/pu896KWpy6fbvw0ZcpZxYkAk8P6DAkkRzY/wYiKSR7xdkjG6m2YO1NDD12a3/Vi/DQTu9z0zsisKFV8OqV15bNZGK9XZvQgJaUnzScFnOn696Qc04mk02c3FzVcMlQTko9R0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQCr4lNKb7TPEiOyyIm+02kctRwxqttzwQQlG2J2h+zbRRPcxhmJZoo9QQnMBLwt8v8qhc4EBBQJhr/DWVzW57hsTV/oC/nsztdJAB3T2Bu0M36B6Ftc0Xs++Qqol3AiqKW9npdGyzys/Ul6C1pyYOreyUs3H92oULNuWuA8n/KB1A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

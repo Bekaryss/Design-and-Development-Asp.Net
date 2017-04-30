@@ -1,0 +1,6 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\SortBook\SortBook\bin\Debug\SortBook.exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\SortBook\SortBook\bin\Debug\SortBook.exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\SortBook\SortBook\bin\Debug\SortBook.pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\SortBook\SortBook\obj\Debug\SortBook.csprojResolveAssemblyReference.cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\SortBook\SortBook\obj\Debug\SortBook.exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\SortBook\SortBook\obj\Debug\SortBook.pdb

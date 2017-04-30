@@ -1,0 +1,6 @@
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ThreadTask\ThreadTask\bin\Debug\ThreadTask.exe.config
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ThreadTask\ThreadTask\bin\Debug\ThreadTask.exe
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ThreadTask\ThreadTask\bin\Debug\ThreadTask.pdb
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ThreadTask\ThreadTask\obj\Debug\ThreadTask.csprojResolveAssemblyReference.cache
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ThreadTask\ThreadTask\obj\Debug\ThreadTask.exe
+C:\Users\Beka\Documents\Visual Studio 2017\Projects\Design and Development\ThreadTask\ThreadTask\obj\Debug\ThreadTask.pdb

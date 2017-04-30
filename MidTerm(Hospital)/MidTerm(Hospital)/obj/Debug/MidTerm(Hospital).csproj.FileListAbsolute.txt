@@ -1,0 +1,9 @@
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\bin\Debug\MidTerm(Hospital).exe.config
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\obj\Debug\MidTerm(Hospital).csprojResolveAssemblyReference.cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\obj\Debug\MidTerm_Hospital_.Form1.resources
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\obj\Debug\MidTerm_Hospital_.Properties.Resources.resources
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\obj\Debug\MidTerm(Hospital).csproj.GenerateResource.Cache
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\bin\Debug\MidTerm(Hospital).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\bin\Debug\MidTerm(Hospital).pdb
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\obj\Debug\MidTerm(Hospital).exe
+C:\Users\Bekarys\Documents\Visual Studio 2015\Projects\Design and Development\MidTerm(Hospital)\MidTerm(Hospital)\obj\Debug\MidTerm(Hospital).pdb

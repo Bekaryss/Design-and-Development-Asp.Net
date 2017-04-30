@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfPatient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Patient>
+    <Id>0</Id>
+    <FirstName>asd</FirstName>
+    <SecondName>asd</SecondName>
+    <FatherName>asd</FatherName>
+    <Age>20</Age>
+    <BirthDate>2017-03-03T14:30:38</BirthDate>
+    <PhoneNumber>7898798</PhoneNumber>
+    <Genders>Male</Genders>
+    <Address>asdasd</Address>
+    <Accepted>0001-01-01T00:00:00</Accepted>
+    <Sicknes />
+    <Info>asdasd</Info>
+  </Patient>
+  <Patient>
+    <Id>0</Id>
+    <FirstName>asd</FirstName>
+    <SecondName>asdasd</SecondName>
+    <FatherName>asd</FatherName>
+    <Age>52</Age>
+    <BirthDate>2017-03-04T14:33:08</BirthDate>
+    <PhoneNumber>789</PhoneNumber>
+    <Genders>Female</Genders>
+    <Address>dgd</Address>
+    <Accepted>0001-01-01T00:00:00</Accepted>
+    <Info>dfg</Info>
+  </Patient>
+  <Patient>
+    <Id>0</Id>
+    <FirstName>Bekarys</FirstName>
+    <SecondName>Bekarys</SecondName>
+    <FatherName>Bekarys</FatherName>
+    <Age>0</Age>
+    <BirthDate>2017-03-04T14:33:00</BirthDate>
+    <PhoneNumber>789</PhoneNumber>
+    <Genders>Male</Genders>
+    <Address>sdf</Address>
+    <Accepted>0001-01-01T00:00:00</Accepted>
+    <Info>Bekarys</Info>
+  </Patient>
+</ArrayOfPatient>
